@@ -1,7 +1,0 @@
-my-app/
-├── app.js / index.html (your app code)
-├── appspec.yml
-├── scripts/
-│   ├── install_dependencies.sh
-│   └── start_server.sh
-├── buildspec.yml
